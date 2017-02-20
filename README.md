@@ -1,2 +1,0 @@
-# noobs
-Personal portfolio
